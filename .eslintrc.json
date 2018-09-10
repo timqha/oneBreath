@@ -74,7 +74,9 @@
         // Allow to use hasOwnProperty
         "no-prototype-builtin": 0,
         // Allow to not define default props for not required props
-        "react/require-default-props": 0
+        "react/require-default-props": 0,
+        
+        "react/destructuring-assignment": 1
     },
     "extends": [
         "airbnb",
